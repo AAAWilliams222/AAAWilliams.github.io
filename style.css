@@ -1,15 +1,18 @@
-body {
-  background-color: lightgray;
-}
 h1 {
 font-family:"Comic Sans MS", cursive, sans-serif;
 }
 body {
-color:maroon;
+color:white;
 }
 .alignleft {
 float: left;
 }
 .alignright {
 float: right;
+}
+
+body {
+  height: 2250px; 
+  background-color: midnightblue; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, midnightblue, steelblue); /* Standard syntax (must be last) */
 }
