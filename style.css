@@ -12,7 +12,7 @@ float: right;
 }
 
 body {
-  height: 2000px; 
+  height: 2200px; 
   background-color: midnightblue; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, midnightblue, steelblue); /* Standard syntax (must be last) */
 }
